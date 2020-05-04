@@ -1,0 +1,29 @@
+﻿@model IEnumerable<E_CounsellingWebApplication.Models.Category>
+
+@{
+    ViewBag.Title = "Categories";
+}
+<h1>@ViewBag.Title</h1>
+<div class="card-deck">
+    @foreach (var Category in Model)
+    {
+
+        <div class="card m-3" style="width: 18rem;">
+            <div class="card-header card-title text-center">
+                <h3>@Category.categoryName </h3>
+            </div>
+            <img class="card-img-top" src="@Category.CategoryPhoto" alt="Card image cap" asp-append-version="true">
+            <div class="card-body">
+                <p class="card-text card-body">
+                    @Category.categoryDescription
+                </p>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-action="@Category.categoryName" asp-controller="Categories" class="btn btn-primary">View</a>
+            </div>
+        </div>
+
+
+
+    }
+</div>

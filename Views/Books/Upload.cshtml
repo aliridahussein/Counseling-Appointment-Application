@@ -1,0 +1,26 @@
+﻿@model E_CounsellingWebApplication.ViewModels.UploadViewModel;
+
+<form enctype="multipart/form-data" asp-controller="Books" asp-action="Upload" method="post">
+    <div class="form-group">
+        <label asp-for="File"></label>
+        <div class="custom-file">
+            <input asp-for="File" class="form-control custom-file-input" />
+            <label class="custom-file-label">Choose File...</label>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <br />
+    <input class="btn btn-primary" type="submit" value="Upload" />
+</form>

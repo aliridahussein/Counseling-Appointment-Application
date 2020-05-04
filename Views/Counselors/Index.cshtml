@@ -1,0 +1,97 @@
+﻿@model E_CounsellingWebApplication.ViewModels.CouncelorsListViewModel
+@inject IUserCounselorRepository Repository;
+@{
+    var UserId = ViewBag.UserId;
+}
+
+
+<div>
+    <h2>My Counselors</h2>
+
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            
+            <th></th>
+            <th></th>
+            <th>Rate Your Counselor!</th>
+        </tr>
+        @foreach (var myCounseler in Model.MyCounselors)
+        {
+        <tr>
+            <td>@myCounseler.FirstName @myCounseler.LastName</td>
+            <td>@myCounseler.Category</td>
+          
+
+            <td><a asp-controller="Appointment" asp-action="Index">Make an appointment</a></td>
+
+            <td><a class="text-danger" asp-controller="Counselors" asp-action="RemoveCounselor" asp-route-counselorid="@myCounseler.Id">Remove</a></td>
+            @if (!(Repository.IsRated(@UserId, @myCounseler.Id)))
+            {  <td>
+               <a class="btn" asp-action="Endorse" asp-route-UserRating="1" asp-route-userid="@UserId" asp-route-counselorid="@myCounseler.Id">
+               <i class="fas fa-star blue-text"> </i>
+               </a>
+
+               <a class="btn" asp-action="Endorse" asp-route-UserRating="2" asp-route-userid="@UserId" asp-route-counselorid="@myCounseler.Id">
+               <i class="fas fa-star blue-text"> </i>
+               </a>
+
+               <a class="btn" asp-action="Endorse" asp-route-UserRating="3" asp-route-userid="@UserId" asp-route-counselorid="@myCounseler.Id">
+               <i class="fas fa-star blue-text"> </i>
+               </a>
+
+                <a class="btn" asp-action="Endorse" asp-route-UserRating="4" asp-route-userid="@UserId" asp-route-counselorid="@myCounseler.Id">
+                <i class="fas fa-star blue-text"> </i>
+                </a>
+
+                <a class="btn" asp-action="Endorse" asp-route-UserRating="5" asp-route-userid="@UserId" asp-route-counselorid="@myCounseler.Id">
+                <i class="fas fa-star blue-text"> </i>
+                </a>
+
+            </td>
+
+             }
+</tr>
+        }
+
+
+    </table>
+
+    <h2>Counselors</h2>
+</div>
+<ul class="list-unstyled">
+    @foreach (var Counselor in Model.Counselors)
+    {
+        var photoPath = "~/images/" + (Counselor.PhotoPath ?? "NoImage.jpg");
+
+        <li class="media">
+            <img class="d-flex mr-3" style="width:80px; height:80px; object-fit: cover" asp-append-version="true"
+                 src="@photoPath" alt="Generic placeholder image">
+            <div class="media-body">
+                <h5 class="mt-0 mb-2 font-weight-bold">
+                    <a asp-action="ViewProfile" asp-controller="Profile" asp-route-id="@Counselor.Id">
+                        @Counselor.FirstName @Counselor.LastName
+                    </a>
+                </h5>
+
+                rating: @Counselor.Rate.ToString() / 5 <br />
+                Category: @Counselor.Category <br />
+                @if (!(Repository.exist(@UserId, @Counselor.Id)))
+                {
+                    <a asp-controller="Counselors" asp-action="AddCounselor" asp-route-userid="@User.Identity.Name" asp-route-CounselorId="@Counselor.Id">Add To My Counselors</a>
+                }
+
+
+            </div>
+        </li>
+        <P>
+
+
+        </P>
+    }
+</ul>
+
+
+
+

@@ -1,0 +1,221 @@
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfoInputs.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfo.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.input.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.output.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorCoreGenerate.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.deps.json
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.json
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.dev.json
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.dll
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CopyComplete
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Create.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserRoles.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserClaims.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\AccessDenied.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Counselors\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\PleaseConfirm.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Success.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\LiveChat.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\EditProfile.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Appoint.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\EditAvailable.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\RequestAppointment.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Lifestyle.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Business.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Depression.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csprojAssemblyReference.cache
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Upload.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePassword.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePasswordConfirmation.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\Statistics.g.cshtml.cs
+C:\Users\70454\Documents\Visual Studio 2017\Projects\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Payment.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.deps.json
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.json
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.dev.json
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.dll
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csprojAssemblyReference.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfoInputs.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfo.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.input.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.output.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorCoreGenerate.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePassword.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePasswordConfirmation.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\PleaseConfirm.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Success.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\AccessDenied.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserClaims.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserRoles.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\Statistics.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Appoint.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\EditAvailable.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Payment.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\RequestAppointment.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Upload.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Create.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Business.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Depression.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Lifestyle.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Counselors\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\LiveChat.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\EditProfile.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+C:\Users\70454\Desktop\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CopyComplete
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\nlog.config
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\appsettings.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\libman.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.deps.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.runtimeconfig.dev.json
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.dll
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\bin\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csprojAssemblyReference.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CoreCompileInputs.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorAssemblyInfo.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfoInputs.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.AssemblyInfo.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.input.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.TagHelpers.output.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorCoreGenerate.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePassword.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ChangePasswordConfirmation.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\PleaseConfirm.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Account\Success.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Administration\Statistics.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Appoint.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\EditAvailable.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\Payment.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Appointment\RequestAppointment.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Upload.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Create.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Broadcast\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Business.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Depression.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Lifestyle.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Counselors\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\ContactUs.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\LiveChat.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\EditProfile.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.RazorTargetAssemblyInfo.cs
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.Views.pdb
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.dll
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.pdb
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.genruntimeconfig.cache
+E:\ali rida\E_CounsellingWebApplication\E_CounsellingWebApplication\obj\Debug\netcoreapp2.2\E_CounsellingWebApplication.csproj.CopyComplete

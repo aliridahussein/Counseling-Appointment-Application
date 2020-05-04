@@ -1,0 +1,63 @@
+﻿@model E_CounsellingWebApplication.ViewModels.AppointmentViewModel
+@inject SignInManager<ApplicationUser> signInManager;
+
+<h2>My Appointments</h2>
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th> Appointment Time</th>
+        <th></th>
+    </tr>
+    @foreach (var Appointment in Model.MyAppointments)
+    {
+        @if (signInManager.IsSignedIn(User) && User.IsInRole("Counselor"))
+        {
+            <tr>
+                <td>@Appointment.UserName</td>
+                <td>@Appointment.Date</td>
+            </tr>
+        }
+        else
+        {
+            <tr>
+                <td>@Appointment.CounselorName</td>
+                <td>@Appointment.Date</td>
+                <td>
+                <td><a asp-action="CancleAppointment" asp-route-AppointmentId="@Appointment.Id">Cancle</a></td>
+            </tr>
+        }
+    }
+</table>
+
+<br />
+
+<h2> Available Appointments</h2>
+<table class="table">
+    <tr>
+        <th>Counselor Name</th>
+        <th> Appointment Time</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var Appointment in Model.AvailableAppointments)
+    {
+        <tr>
+            <td>@Appointment.CounselorName</td>
+            <td>@Appointment.Date</td>
+            <td><a asp-action="Payment" asp-route-Id="@Appointment.Id">Appoint</a></td>
+
+            @if (signInManager.IsSignedIn(User) && Appointment.CounselorId == ViewBag.UserId)
+            {
+                <td><a asp-action="DeleteAvailable" asp-route-AppointmentId="@Appointment.Id" class="text-danger">Delete</a></td>
+                <td><a asp-action="EditAvailable" asp-route-AppointmentId="@Appointment.Id" class="text-danger">Edit</a></td>
+            }
+        </tr>
+    }
+</table>
+<br />
+
+@if (signInManager.IsSignedIn(User) && User.IsInRole("Counselor"))
+{
+    <a asp-action="AddAvailableAppointments" asp-route-counselorEmail="@User.Identity.Name">Add Available Appointments</a>
+}

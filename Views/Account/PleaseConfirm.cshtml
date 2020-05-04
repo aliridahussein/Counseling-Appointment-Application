@@ -1,0 +1,12 @@
+﻿
+@{ 
+    var confirmationlink = ViewBag.ConfirmationLink;
+}
+<h1>Email Sent</h1>
+<h2>Confirm your Email then click continue</h2>
+<p>Confirmation link :</p><br />
+ <a href="@confirmationlink">click here</a>
+
+<p> @ViewBag.token </p>
+
+<a class="btn btn-danger" asp-area="" asp-controller="Account" asp-action="Login">Continue</a>

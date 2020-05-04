@@ -1,0 +1,90 @@
+﻿@model E_CounsellingWebApplication.ViewModels.ViewProfileViewModel
+@inject SignInManager<ApplicationUser> signInManager;
+@{
+    var photoPath = "~/images/" + (Model.PhotoPath ?? "NoImage.jpg");
+}
+
+<div class="container align-content-center  col-md-12">
+    <form method="post">
+        <div class="row">
+            <div class="col-md-4">
+                <div>
+                    <h5> @Model.FirstName @Model.LastName</h5>
+
+                </div>
+                <div class="text-center">
+                    <img class="img-thumbnail" src="@photoPath" asp-append-version="true" />
+
+                </div>
+            </div>
+            @{
+                if (Model.Email == User.Identity.Name)
+                {
+                    <div class="col-md-2">
+                        <a class="btn btn-danger" asp-action="EditProfile" asp-route-id="@Model.Id"><i class="fas fa-user-edit"></i>Edit Profile </a>
+
+                    </div>
+                }
+            }
+
+        </div>
+        <br /><br />
+        <div class="row">
+
+            <div class="col-md-8">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>First Name</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>@Model.FirstName</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Last Name</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>@Model.LastName</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Email</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>@Model.Email</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Country</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>Lebanon</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Gender</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>@Model.Gender</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Date Of Birth</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>@Model.DOB</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>

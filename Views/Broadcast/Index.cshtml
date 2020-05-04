@@ -1,0 +1,60 @@
+﻿@model IEnumerable<E_CounsellingWebApplication.ViewModels.BroadcastListViewModel>
+@inject SignInManager<ApplicationUser> signInManager;
+
+@{
+    ViewBag.Title = "BroadCasts";
+}
+<div class="ml-5">
+    <div class="row ">
+        @using (Html.BeginForm("Index", "Broadcast", FormMethod.Get))
+        {<div class="input-group">
+                <div class="input-group-text"> Search by name  </div>
+                @Html.TextBox("SearchString")
+                <input type="submit" value="Search" />
+            </div>
+            <div class="form-check" id="">
+                <p>Sort by:</p>
+                <div>@Html.RadioButton("sortOrder", "Date")Date</div>
+                <div>@Html.RadioButton("sortOrder", "name_desc")name_desc</div>
+                <div>@Html.RadioButton("sortOrder", "date_desc")date_desc</div>
+                <input type="submit" value="Apply" />
+            </div>
+        }
+    </div>
+    <br /><br />
+    <h5>Broadcasts:</h5>
+    <div class="container">
+        @foreach (var broadcast in Model)
+        {
+            var photoPath = "~/images/" + (broadcast.PhotoPath ?? "NoImage.jpg");
+
+            <div class="row">
+                <div class="float-left">
+                    <img class=" d-flex rounded-circle avatar z-depth-1-half mb-3 mx-auto"
+                         style="width:120px;height:120px; object-fit: cover"
+                         src="@photoPath" asp-append-version="true"
+                         alt="Avatar">
+                </div>
+
+                <div class="float-right alert alert-primary rounded">
+                    <div>
+                        <h6 class="mt-0 font-weight-bold blue-text"><a asp-action="ViewProfile" asp-controller="Profile" asp-route-id="@broadcast.UserId">@broadcast.FirstName @broadcast.LastName </a> </h6>
+                    </div>
+
+                    <div>
+                        @broadcast.Date
+                    </div>
+                    <br />
+                    <div style="font-size:large">@broadcast.Text</div>
+
+                </div>
+            </div>
+
+            <br />
+        }
+            <div>
+                <a asp-controller="Broadcast" asp-action="Create" asp-route-Email="@User.Identity.Name"
+                   class="btn btn-primary m-1 w-100">Create</a>
+            </div>
+    </div>
+</div>

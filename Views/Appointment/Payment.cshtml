@@ -1,0 +1,16 @@
+﻿@model E_CounsellingWebApplication.ViewModels.PaymentViewModel;
+
+@{ 
+    var appointmentId = ViewBag.AppointmentId;
+}
+<h2>A payment of 10$ is required</h2>
+<h3>Enter your Creditcard number and click "Submit payment to pay"</h3>
+<form  method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="PaymentId"> </label>
+        <input asp-for="PaymentId" class="form-control" />
+        <span asp-validation-for="PaymentId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit Payment</button>
+</form>
